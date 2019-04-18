@@ -1,0 +1,3 @@
+Assignment due 4/18/2019: This assignment we create a class for auction house and then in the main have 3 instances of the object
+one using default constructor, one using values set by developer, and one being set by the user. Then finding the profit and 
+printing it all out to the console
