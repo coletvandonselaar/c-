@@ -1,2 +1,2 @@
 # c-
-Assignments from C++
+This repo is a collection of c++ assignments. 
